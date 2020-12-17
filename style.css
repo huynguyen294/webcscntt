@@ -138,6 +138,7 @@ button {
 }
 .ol {
   padding: 0;
+  margin-left: 10px;
   text-align: center;
   background-color: #fff;
   color: #999;
@@ -272,13 +273,23 @@ footer {
   .card {
     margin-left: 0px;
   }
+  .dec-sub-title {
+    font-style: italic;
+    width: 80%;
+    margin-left: 13px;
+    font-size: 16px;
+  }
   h4 {
     width: 100%;
     padding: 0;
   }
   h5 {
-    padding: 10px;
-    margin-left: 35px;
+    padding-top: 30px;
+    margin-left: 40px;
     width: 80%;
+  }
+  .profile {
+    margin-left: 10px;
+    width: 45%;
   }
 }
